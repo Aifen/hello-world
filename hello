@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html>
   <head>
+      <title>My First Website!</title>
     </head>
     <body>
-      <title>My First Website!</title>
+      <h1>WELCOME</h1>
+      <p>Hello World</p>
     </body>
   </html>
